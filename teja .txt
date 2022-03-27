@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<coino.h>
+void main()
+{
+int a, b;
+printf("/n add two number");
+sacnf("%d",&n);
+c=a+b;
+printf(" a");
+return0
+}
