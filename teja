@@ -1,1 +1,14 @@
-iam teja 
+iam 
+teja
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a ,b;
+printf(" %/n add two number");
+scanf("%d",&i);
+c=a,b;
+printf("%d");
+return0
+}
+  
